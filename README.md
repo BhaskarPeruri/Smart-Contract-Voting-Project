@@ -1,5 +1,5 @@
 # Smart-Contract-Voting-Project
-This Smart Contract Voting Project utilizes the Solidity language. It essentially comprises an Election Commissioner who oversees the conduct of free and fair elections, Candidates who participate in the election, and eligible Voters.
+This Smart Contract Voting Project utilizes the Solidity language. It essentially comprises an Election Commissioner who oversees the conduct of free and fair elections, candidates who participate in the election, and eligible Voters.
 
 # Project Explanation:
 
